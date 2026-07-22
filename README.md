@@ -1,7 +1,7 @@
 <div align="center">
   
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Niraj Jadhav banner"/>
+  <img src="./assets/hero.svg" width="200%" alt="Niraj Jadhav banner"/>
 </p>
 
 <br>

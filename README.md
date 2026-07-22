@@ -10,7 +10,7 @@
 <tr>
 <td width="70%" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=23&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+(MERN);Building+AI-Powered+Web+Applications;Passionate+about+DSA+%26+Problem+Solving;Currently+Exploring+AWS+%26+Machine+Learning;Turning+Ideas+Into+Scalable+Products+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+(MERN);Building+AI-Powered+Web+Applications;Passionate+about+DSA+%26+Problem+Solving;Currently+Exploring+AWS+%26+Machine+Learning;Turning+Ideas+Into+Scalable+Products+%F0%9F%9A%80"/>
 
 </td>
 <td width="50%" align="center" valign="middle">

@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Nirajadhav007/Nirajadhav007/main/assets/banner.svg" alt="Niraj Jadhav banner"/>
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Niraj Jadhav banner"/>
+</p>
 
 <br><br>
 

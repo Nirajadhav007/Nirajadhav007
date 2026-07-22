@@ -1,1 +1,139 @@
 
+<svg width="360" height="360" viewBox="0 0 360 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bodyGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#9A6B3F"/>
+      <stop offset="100%" stop-color="#6B4423"/>
+    </linearGradient>
+    <linearGradient id="bellyGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F4E4C8"/>
+      <stop offset="100%" stop-color="#E3C99A"/>
+    </linearGradient>
+    <linearGradient id="wingGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7A4F2A"/>
+      <stop offset="100%" stop-color="#4E2F17"/>
+    </linearGradient>
+    <linearGradient id="conePop" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+
+  <ellipse cx="180" cy="330" rx="70" ry="12" fill="#000000" opacity="0.18"/>
+
+  <g id="body-wobble">
+    <animateTransform attributeName="transform" type="rotate" values="-2 180 220; 2 180 220; -2 180 220" dur="2.4s" repeatCount="indefinite"/>
+
+    <ellipse cx="180" cy="220" rx="95" ry="105" fill="url(#bodyGrad)"/>
+    <ellipse cx="180" cy="250" rx="60" ry="70" fill="url(#bellyGrad)"/>
+
+    <path d="M 95 190 Q 60 210 70 260 Q 90 250 110 220 Z" fill="url(#wingGrad)">
+      <animateTransform attributeName="transform" type="rotate" values="0 95 200; -12 95 200; 0 95 200" dur="1.2s" repeatCount="indefinite"/>
+    </path>
+
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="0 260 210; 20 260 210; 0 260 210" dur="0.5s" repeatCount="indefinite"/>
+      <path d="M 265 190 Q 300 195 305 230 Q 285 235 260 215 Z" fill="url(#wingGrad)"/>
+      <g transform="translate(295,175) rotate(-25)">
+        <path d="M0 0 L 34 -6 L 40 34 L 4 30 Z" fill="url(#conePop)"/>
+        <ellipse cx="0" cy="0" rx="7" ry="9" fill="#F4E4C8"/>
+      </g>
+    </g>
+
+    <circle cx="150" cy="170" r="34" fill="#FFFFFF"/>
+    <circle cx="210" cy="170" r="34" fill="#FFFFFF"/>
+    <circle cx="150" cy="172" r="16" fill="#2B1A0E"/>
+    <circle cx="210" cy="172" r="16" fill="#2B1A0E"/>
+    <circle cx="145" cy="167" r="4" fill="#FFFFFF"/>
+    <circle cx="205" cy="167" r="4" fill="#FFFFFF"/>
+    <path d="M 178 185 L 168 200 L 192 200 Z" fill="#E8A33D"/>
+
+    <path d="M 60 135 Q 90 90 130 120" stroke="#4E2F17" stroke-width="10" fill="none" stroke-linecap="round"/>
+    <path d="M 300 135 Q 270 90 230 120" stroke="#4E2F17" stroke-width="10" fill="none" stroke-linecap="round"/>
+
+    <ellipse cx="165" cy="300" rx="12" ry="6" fill="#E8A33D"/>
+    <ellipse cx="195" cy="300" rx="12" ry="6" fill="#E8A33D"/>
+  </g>
+
+  <g id="confetti">
+    <g transform="translate(295,150)">
+      <animateTransform attributeName="transform" type="translate" values="295,150; 245,10; 220,-40" keyTimes="0;0.7;1" dur="1.6s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0.2 0.6 0.4 1;0.2 0.6 0.4 1"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="480" dur="1.1s" repeatCount="indefinite"/>
+        <rect x="-4" y="-6" width="8" height="12" rx="2" fill="#2563EB">
+          <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.7;1" dur="1.6s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+
+    <g transform="translate(295,150)">
+      <animateTransform attributeName="transform" type="translate" values="295,150; 320,0; 340,-45" keyTimes="0;0.7;1" dur="1.8s" begin="0.25s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0.2 0.6 0.4 1;0.2 0.6 0.4 1"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-420" dur="1.3s" begin="0.25s" repeatCount="indefinite"/>
+        <circle r="6" fill="#06B6D4">
+          <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.7;1" dur="1.8s" begin="0.25s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+    </g>
+
+    <g transform="translate(295,150)">
+      <animateTransform attributeName="transform" type="translate" values="295,150; 275,-20; 260,-70" keyTimes="0;0.7;1" dur="1.5s" begin="0.5s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0.2 0.6 0.4 1;0.2 0.6 0.4 1"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="0.9s" begin="0.5s" repeatCount="indefinite"/>
+        <rect x="-5" y="-3" width="10" height="6" rx="1" fill="#22C55E">
+          <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.7;1" dur="1.5s" begin="0.5s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+
+    <g transform="translate(295,150)">
+      <animateTransform attributeName="transform" type="translate" values="295,150; 335,30; 355,-15" keyTimes="0;0.7;1" dur="1.7s" begin="0.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0.2 0.6 0.4 1;0.2 0.6 0.4 1"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="1.4s" begin="0.15s" repeatCount="indefinite"/>
+        <rect x="-4" y="-4" width="8" height="8" fill="#8E75B2">
+          <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.7;1" dur="1.7s" begin="0.15s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+
+    <g transform="translate(295,150)">
+      <animateTransform attributeName="transform" type="translate" values="295,150; 300,-30; 300,-85" keyTimes="0;0.7;1" dur="1.9s" begin="0.4s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0.2 0.6 0.4 1;0.2 0.6 0.4 1"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="400" dur="1.2s" begin="0.4s" repeatCount="indefinite"/>
+        <circle r="5" fill="#FACC15">
+          <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.7;1" dur="1.9s" begin="0.4s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+    </g>
+
+    <g transform="translate(295,150)">
+      <animateTransform attributeName="transform" type="translate" values="295,150; 260,20; 235,-25" keyTimes="0;0.7;1" dur="1.6s" begin="0.6s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0.2 0.6 0.4 1;0.2 0.6 0.4 1"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-480" dur="1.0s" begin="0.6s" repeatCount="indefinite"/>
+        <rect x="-4" y="-6" width="8" height="12" rx="2" fill="#2563EB">
+          <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.7;1" dur="1.6s" begin="0.6s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+
+    <g transform="translate(295,150)">
+      <animateTransform attributeName="transform" type="translate" values="295,150; 315,-45; 310,-95" keyTimes="0;0.7;1" dur="2.0s" begin="0.1s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0.2 0.6 0.4 1;0.2 0.6 0.4 1"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="1.5s" begin="0.1s" repeatCount="indefinite"/>
+        <rect x="-5" y="-3" width="10" height="6" rx="1" fill="#06B6D4">
+          <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.7;1" dur="2.0s" begin="0.1s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+
+    <g transform="translate(295,150)">
+      <animateTransform attributeName="transform" type="translate" values="295,150; 345,-5; 360,-50" keyTimes="0;0.7;1" dur="1.4s" begin="0.35s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0.2 0.6 0.4 1;0.2 0.6 0.4 1"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="1.1s" begin="0.35s" repeatCount="indefinite"/>
+        <circle r="4" fill="#22C55E">
+          <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.7;1" dur="1.4s" begin="0.35s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+    </g>
+  </g>
+</svg>

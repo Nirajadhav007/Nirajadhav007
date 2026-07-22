@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:06B6D4,50:2563EB,100:8E75B2&text=Niraj%20Jadhav&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder&descAlignY=55&descSize=18"/>
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Niraj Jadhav banner"/>
+</p>
 
 <br>
 

@@ -1,11 +1,10 @@
 <div align="center">
   
-<p align="center">
+<div align="center">
   <img src="./assets/hero.svg" width="100%" alt="Niraj Jadhav banner"/>
-</p>
+</div>
 
 <br>
-
 <table width="100%">
 <tr>
 <td width="70%" valign="middle">

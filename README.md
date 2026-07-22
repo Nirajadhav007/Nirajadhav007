@@ -8,12 +8,12 @@
 
 <table width="100%">
 <tr>
-<td width="90%" valign="middle">
+<td width="70%" valign="middle">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+(MERN);Building+AI-Powered+Web+Applications;Passionate+about+DSA+%26+Problem+Solving;Currently+Exploring+AWS+%26+Machine+Learning;Turning+Ideas+Into+Scalable+Products+%F0%9F%9A%80"/>
 
 </td>
-<td width="30%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 
 <img src="./assets/celebration-owl.svg" width="200%" alt="Celebration owl launching confetti"/>
 

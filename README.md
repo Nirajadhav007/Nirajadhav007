@@ -1,133 +1,553 @@
-<h1 align="center">Hi 👋, I'm Niraj Jadhav</h1>
+<div align="center">
 
-<h3 align="center">MERN Stack Developer • AI-Powered Web Apps • Software Engineer</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563EB,100:06B6D4&text=Hi%20There,%20I'm%20Niraj%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20•%20MERN%20Stack%20Developer%20•%20AI%20Builder&descAlignY=58&descSize=18"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nirajadhav/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Niraj%20Jadhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Nirajadhav007" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Nirajadhav007-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/nirajadhav007/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-nirajadhav007-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+(MERN);Building+AI-Powered+Web+Applications;Passionate+about+DSA+%26+Problem+Solving;Currently+Exploring+AWS+%26+Machine+Learning"/>
+
+<br><br>
+
+<a href="https://github.com/Nirajadhav007">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nirajadhav/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nirajadhav007@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/nirajadhav007/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Nirajadhav007&label=Profile%20Views&style=for-the-badge&color=2563EB"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-- 🎓 B.Tech Graduate with **7.69 CGPA**
-- 📘 Class 12th: **82.5%**
-- 📗 Class 10th: **94.6%**
-- 💻 Passionate about **Software Development, AI, and Full Stack Web Apps**
-- 🌱 Currently focused on **Core Java, AWS, Machine Learning, and Docker**
-- ⚡ I enjoy building practical projects with modern web technologies
+<table width="100%">
+<tr>
+
+<td width="55%" valign="top">
+
+### Hello! 👋
+
+I'm **Niraj Jadhav**, a final-year **Electronics Engineering** student and **Full Stack Developer** who loves turning ideas into scalable, AI-powered web applications.
+
+I build primarily with the **MERN Stack**, sharpen my fundamentals through **Data Structures & Algorithms**, and enjoy integrating **Generative AI** (Gemini API) into real products.
+
+Beyond coding, I'm exploring **AWS**, **Docker**, and **Machine Learning** to build more scalable, cloud-ready systems.
+
+### What I Do
+
+- Build Full Stack MERN Applications
+- Integrate AI (Gemini API) into real-world products
+- Design Clean & Responsive User Interfaces
+- Develop secure REST APIs with JWT Authentication
+- Solve Data Structures & Algorithms problems
+- Explore Cloud (AWS) & Containerization (Docker)
+
+</td>
+
+<td width="45%" valign="top">
+
+<div align="center">
+
+| **Professional Information** | |
+|:-----------------------------|:----------------|
+| 🎓 Education | B.Tech Electronics, Final Year |
+| 💻 Role | Full Stack Developer |
+| 🚀 Stack | MERN Stack + AI |
+| 🧠 Interest | DSA, AI & Problem Solving |
+| 📚 Currently Learning | AWS, Docker & Machine Learning |
+| 🌍 Looking For | Software Engineering Opportunities |
+| ⚡ Status | Open to Opportunities |
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Software%20Engineer-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MERN%20Developer-06B6D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Builder-22C55E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to%20Opportunities-16A34A?style=for-the-badge"/>
+
+</div>
+
+<br>
 
 ---
 
-## 🛠️ Tech Stack
+# 🎓 Education
 
-### Languages
+<div align="center">
+
+| Qualification | Institute | Score |
+|:---|:---|:---:|
+| B.Tech (Electronics) | Walchand College of Engineering, Sangli | CGPA: 7.69/10 |
+| HSC (12th) | Y. C. College, Satara | 82.50% |
+| SSC (10th) | Gurukul School, Satara | 94.60% |
+
+</div>
+
+<br>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+## Technologies I work with every day.
+
+</div>
+
+<br>
+
+<table align="center" width="100%">
+
+<tr>
+
+<td align="center" width="50%">
+
+## 💻 Languages
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=cpp,js,java,html,css&perline=5"/>
+
+</td>
+
+<td align="center" width="50%">
+
+## 🎨 Frontend
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react&perline=4"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+## ⚙️ Backend
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&perline=2"/>
+
+</td>
+
+<td align="center">
+
+## 🗄️ Database
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+## ☁️ Cloud, AI & Tools
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman&perline=6"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<div align="center">
+
+| 🚀 Development Focus |
+|:--------------------:|
+| Full Stack MERN Development • AI Integration • REST APIs • Responsive UI • Authentication • Docker • Cloud (AWS) • Clean Code |
+
+</div>
+
+<br>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,html,css" />
+A collection of projects showcasing my expertise in Full Stack Development, AI integration, and modern web technologies.
 </p>
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
-</p>
+</div>
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+<br>
 
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+<table width="100%">
 
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,postman" />
-</p>
+<tr>
 
-### AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
+<td width="50%" valign="top">
+
+<div align="center">
+
+## 🤖 QuickHireAI – Smart Interview Platform
+
+AI-powered mock interview platform built with the MERN stack and **Gemini API**. Features JWT authentication, interview scheduling, AI-generated questions, speech recognition, and AI-based evaluation.
+
+<br>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square"/>
+
+<br><br>
+
+<a href="https://quick-hire-ai.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-2563EB?style=for-the-badge"/>
+</a>
+<a href="https://github.com/Nirajadhav007/QuickHireAI">
+<img src="https://img.shields.io/badge/🚀_View_Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+## 🛍️ MyEthnicShop – E-Commerce for Ethnic Wear
+
+Full-stack MERN e-commerce app for a boutique selling sarees, kurtis, and dresses — with cart, checkout, admin product management, payment gateway integration, PDF invoices, and sales analytics.
+
+<br>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens"/>
+
+<br><br>
+
+<a href="https://my-ethnic-shop.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-2563EB?style=for-the-badge"/>
+</a>
+<a href="https://github.com/Nirajadhav007/MyEthnicShop">
+<img src="https://img.shields.io/badge/🚀_View_Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+<div align="center">
+
+## 📧 MailGen AI – AI Cold Email Generator
+
+An AI-powered cold email generator built using the MERN stack and Google's **Gemini AI**. Helps job seekers, freelancers, and sales professionals generate personalized outreach emails, LinkedIn messages, and follow-up emails in seconds. Includes secure authentication, OTP-based email verification, campaign history management, Docker support, and a modern responsive interface.
+
+<br>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
+
+<br><br>
+
+<a href="https://mail-gen-ai.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-2563EB?style=for-the-badge"/>
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
 
 ---
 
-## 📌 Development Focus
+# 🌱 Currently Learning
 
-- Core Java
-- AWS Cloud
-- Machine Learning
-- Docker
-- MERN Stack
-- AI-integrated web applications
+<div align="center">
 
----
+### Always learning, always improving.
 
-## 🏆 Featured Projects
+<br>
 
-### 1) QuickHireAI
-An AI-powered recruitment assistant built for smarter hiring workflows.
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-- **Live:** https://quick-hire-ai.vercel.app/
-- **Repo:** https://github.com/Nirajadhav007/QuickHireAI
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
-### 2) MyEthnicShop
-A modern e-commerce web app for ethnic shopping.
+<img src="https://img.shields.io/badge/System_Design-4B5563?style=for-the-badge"/>
 
-- **Live:** https://my-ethnic-shop.vercel.app/
-- **Repo:** https://github.com/Nirajadhav007/MyEthnicShop
+</div>
+
+<br>
 
 ---
 
-### 3) MailGen AI
-An AI-powered Cold Email Generator built using the MERN Stack and Google's Gemini AI.
+# 🏆 Achievements & Certifications
 
-- **Live:** https://mail-gen-ai.vercel.app/
-- **Drive:** https://drive.google.com/file/d/1K1bT0jwdgYn_RQIDEPKXPmt7qp8iZhZO/view?usp=sharing
+<div align="center">
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Achievements**
+- 🏅 Cummins India Scholar — Top 800 students nationwide
+- 🎖️ UPSC NDA SSB Recommended (2022)
+- 💻 300+ DSA problems solved
+
+</td>
+<td valign="top" width="50%">
+
+**Certifications**
+- AWS Cloud Practitioner – Compute, Networking & Account Strategies
+- Fundamentals of Generative AI
+- IBM SQL
+- Gemini Certified Student
+- NVIDIA – Fundamentals of Deep Learning
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
 
 ---
 
-## 📫 Contact Me
+# 💭 Developer Philosophy
 
-- **Email:** nirajadhav007@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/nirajadhav/
-- **GitHub:** https://github.com/Nirajadhav007
-- **LeetCode:** https://leetcode.com/u/nirajadhav007/
+<div align="center">
 
----
+> ### *"Clean code always beats clever code."*
+>
+> ### *"I enjoy solving real-world problems through scalable, AI-powered software."*
+>
+> ### *"Consistency compounds into expertise."*
 
-## 📊 GitHub Stats
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nirajadhav007&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirajadhav007&layout=compact&theme=tokyonight" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nirajadhav007&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirajadhav007&theme=tokyo-night" />
-</p>
+<br>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nirajadhav007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+# 📊 GitHub Statistics
 
-<p align="center">
-  <b>Thanks for visiting my profile!</b>
-</p>
+<div align="center">
+
+### My GitHub at a Glance
+
+<br>
+
+<img
+  width="95%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nirajadhav007&theme=tokyonight"
+/>
+
+<br><br>
+
+<img
+  height="170"
+  src="https://streak-stats.demolab.com?user=Nirajadhav007&theme=tokyonight&hide_border=true"
+/>
+
+<img
+  height="170"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nirajadhav007&theme=tokyonight"
+/>
+
+<br><br>
+
+<img
+  height="170"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nirajadhav007&theme=tokyonight"
+/>
+
+</div>
+
+<br>
+
+---
+### Contribution Graph
+
+<br>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nirajadhav007&theme=react-dark&bg_color=0D1117&hide_border=true&line=2563EB&point=22C55E&color=06B6D4"/>
+
+<br>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+### Watch my contributions come alive
+
+<br>
+
+<img width="98%" src="https://raw.githubusercontent.com/Nirajadhav007/Nirajadhav007/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>
+
+The snake animation is generated automatically via a GitHub Actions workflow (set up separately — see note below).
+
+</sub>
+
+</div>
+
+<br>
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Nirajadhav007">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nirajadhav/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nirajadhav007@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/nirajadhav007/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+<br>
+
+---
+
+# 💼 What You'll Find Here
+
+<div align="center">
+
+| 🚀 |
+|:---:|
+| Full Stack MERN Projects |
+| AI-powered Applications |
+| REST APIs |
+| Authentication Systems |
+| Modern React Applications |
+| Dockerized Projects |
+| Problem Solving & DSA |
+
+</div>
+
+<br>
+
+---
+
+# 📌 Current Focus
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Building-AI_Powered_Web_Apps-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Learning-AWS_%26_ML-06B6D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Exploring-Docker-2496ED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Practicing-DSA-22C55E?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for Visiting!!
+
+If you enjoyed exploring my projects,
+
+consider giving them a ⭐ on GitHub.
+
+Your support motivates me to build more amazing software.
+
+<br><br>
+
+<a href="https://github.com/Nirajadhav007">
+<img src="https://img.shields.io/badge/Visit_My_GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:06B6D4,100:2563EB"/>
+
+</div>

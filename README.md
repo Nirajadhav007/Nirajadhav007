@@ -490,36 +490,6 @@ An AI-powered cold email generator built using the MERN stack and Google's **Gem
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient"/>
 </div>
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-### Watch my contributions come alive
-
-<br>
-
-<img width="98%" src="https://raw.githubusercontent.com/Nirajadhav007/Nirajadhav007/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<sub>
-
-The snake animation is generated automatically via a GitHub Actions workflow (set up separately — see note below).
-
-</sub>
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient"/>
-</div>
-
 # 📫 Let's Connect
 
 <div align="center">

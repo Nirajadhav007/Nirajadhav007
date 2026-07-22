@@ -1,204 +1,133 @@
-<h1 align="center">Hey 👋, I'm Niraj Jadhav</h1>
+<h1 align="center">Hi 👋, I'm Niraj Jadhav</h1>
 
-<h3 align="center">
-MERN Stack Developer • AI-Powered Web Applications • Software Engineer
-</h3>
+<h3 align="center">MERN Stack Developer • AI-Powered Web Apps • Software Engineer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Learning+Cloud+%26+AI;Problem+Solver;Open+to+Software+Engineering+Opportunities" />
+  <a href="https://www.linkedin.com/in/nirajadhav/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Niraj%20Jadhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Nirajadhav007" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Nirajadhav007-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/nirajadhav007/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-nirajadhav007-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Electronics Engineering
-- 💻 Passionate about **Software Development & AI**
-- 🌱 Currently learning **AWS, System Design & Advanced DSA**
-- 🚀 Building Full Stack Applications using the **MERN Stack**
-- 🤖 Interested in **Generative AI & Cloud Computing**
-- 📍 India
-- 📫 **Email:** **nirajadhav007@gmail.com**
+- 🎓 B.Tech Graduate with **7.69 CGPA**
+- 📘 Class 12th: **82.5%**
+- 📗 Class 10th: **94.6%**
+- 💻 Passionate about **Software Development, AI, and Full Stack Web Apps**
+- 🌱 Currently focused on **Core Java, AWS, Machine Learning, and Docker**
+- ⚡ I enjoy building practical projects with modern web technologies
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:nirajadhav007@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Nirajadhav007">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://leetcode.com/u/nirajadhav007/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
-
 <p>
-
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css"/>
-
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,html,css" />
 </p>
 
 ### Frontend
-
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap"/>
-
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
 </p>
 
 ### Backend
-
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Database
-
 <p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### Cloud & Tools
-
+### Tools & Platforms
 <p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,postman" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman"/>
-
+### AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 📌 Development Focus
 
-## 🗳 VoteXpress – Real-Time Voting Platform
-
-- JWT Authentication
-- Secure Voting
-- Real-time Vote Updates
-- React + Node + Express + MongoDB
-
----
-
-## 🚦 Traffic Congestion Prediction
-
-- Machine Learning
-- Random Forest
-- Traffic Dataset Analysis
-- Congestion Forecasting
-
----
-
-## 🤖 MailGen AI
-
-- AI Cold Email Generator
-- Prompt Engineering
-- Modern UI
-
----
-
-# 📜 Certifications
-
-- AWS Certified Cloud Practitioner
-- IBM SQL
-- Google Generative AI Fundamentals
-- NVIDIA Fundamentals of Deep Learning
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nirajadhav007&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirajadhav007&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Nirajadhav007&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirajadhav007&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nirajadhav007&theme=tokyonight&column=4"/>
-
-</p>
-
----
-
-# 📄 Resume
-
-<p align="center">
-
-<a href="YOUR_RESUME_URL">
-<img src="https://img.shields.io/badge/Download%20Resume-blue?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-# 🌟 Current Focus
-
-- Advanced Data Structures & Algorithms
+- Core Java
 - AWS Cloud
-- System Design
-- AI Applications
-- Open Source Contributions
+- Machine Learning
+- Docker
+- MERN Stack
+- AI-integrated web applications
 
 ---
 
+## 🏆 Featured Projects
+
+### 1) QuickHireAI
+An AI-powered recruitment assistant built for smarter hiring workflows.
+
+- **Live:** https://quick-hire-ai.vercel.app/
+- **Repo:** https://github.com/Nirajadhav007/QuickHireAI
+
+---
+
+### 2) MyEthnicShop
+A modern e-commerce web app for ethnic shopping.
+
+- **Live:** https://my-ethnic-shop.vercel.app/
+- **Repo:** https://github.com/Nirajadhav007/MyEthnicShop
+
+---
+
+### 3) MailGen AI
+An AI-powered Cold Email Generator built using the MERN Stack and Google's Gemini AI.
+
+- **Live:** https://mail-gen-ai.vercel.app/
+- **Drive:** https://drive.google.com/file/d/1K1bT0jwdgYn_RQIDEPKXPmt7qp8iZhZO/view?usp=sharing
+
+---
+
+## 📫 Contact Me
+
+- **Email:** nirajadhav007@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/nirajadhav/
+- **GitHub:** https://github.com/Nirajadhav007
+- **LeetCode:** https://leetcode.com/u/nirajadhav007/
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nirajadhav007&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirajadhav007&layout=compact&theme=tokyonight" height="170" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Nirajadhav007&label=Profile%20Views&color=blue&style=for-the-badge"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nirajadhav007&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirajadhav007&theme=tokyo-night" />
 </p>
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nirajadhav007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile!</b>
+</p>

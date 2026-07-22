@@ -1,27 +1,14 @@
-<!-- ============================== -->
-<!--           HERO SECTION         -->
-<!-- ============================== -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=gradient&customColorList=12,20,24,30&text=Niraj%20Jadhav&fontSize=58&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20AI%20Enthusiast&descAlignY=58&descSize=19"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&color=gradient&customColorList=12,20,24,30&animation=twinkling"/>
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm
+
+# <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=48&duration=3500&pause=999999&center=true&vCenter=true&width=650&height=70&color=8A2BE2&lines=NIRAJ+JADHAV"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&center=true&vCenter=true&width=900&color=00E5FF&lines=🚀+Software+Engineer;💻+Full+Stack+Developer;⚛️+MERN+Stack+Developer;🤖+AI+Enthusiast;🧠+Machine+Learning+Enthusiast;☕+Core+Java+Developer;🐍+Python+Developer;☁️+AWS+Cloud+Learner;⚡+Problem+Solver"/>
 
 </div>
-
-<div align="center">
-
-# 👋 Hello, I'm **Niraj Jadhav**
-
-### 🚀 Software Engineer • 💻 Full Stack Developer • ⚛️ MERN Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=950&lines=Software+Engineer;Full+Stack+Developer;MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Core+Java+Developer;Python+Developer;AWS+Cloud+Learner;Problem+Solver;Always+Learning+Something+New"/>
-
-</div>
-
----
-
-<div align="center">
-
 ### 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/nirajadhav/">

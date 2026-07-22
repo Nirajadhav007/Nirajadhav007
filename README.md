@@ -1,7 +1,7 @@
 <div align="center">
   
 <p align="center">
-  <img src="./assets/hero.svg" width="70%" alt="Niraj Jadhav banner"/>
+  <img src="./assets/hero.svg" width="100%" alt="Niraj Jadhav banner"/>
 </p>
 
 <br>
@@ -15,7 +15,7 @@
 </td>
 <td width="30%" align="center" valign="middle">
 
-<img src="./assets/celebration-owl.svg" width="180" alt="Celebration owl launching confetti"/>
+<img src="./assets/celebration-owl.svg" width="200" alt="Celebration owl launching confetti"/>
 
 </td>
 </tr>

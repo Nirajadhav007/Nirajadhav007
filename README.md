@@ -4,7 +4,7 @@
   <img src="./assets/hero.svg" width="100%" alt="Niraj Jadhav banner"/>
 </div>
 <br>
-<table width="50%">
+<table width="10%">
 <tr>
 <td width="70%" valign="middle">
 

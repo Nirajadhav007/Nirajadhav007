@@ -1,0 +1,112 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420"
+xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+
+<stop offset="0%" stop-color="#0F172A"/>
+
+<stop offset="50%" stop-color="#312E81"/>
+
+<stop offset="100%" stop-color="#06B6D4"/>
+
+</linearGradient>
+
+<filter id="glow">
+
+<feGaussianBlur stdDeviation="5" result="coloredBlur"/>
+
+<feMerge>
+
+<feMergeNode in="coloredBlur"/>
+
+<feMergeNode in="SourceGraphic"/>
+
+</feMerge>
+
+</filter>
+
+</defs>
+
+<rect width="1600" height="420" fill="url(#bg)"/>
+
+<circle cx="120" cy="90" r="4" fill="white">
+<animate attributeName="cy" values="90;80;90" dur="4s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="500" cy="150" r="3" fill="#8BE9FD">
+<animate attributeName="cy" values="150;130;150" dur="5s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1300" cy="80" r="5" fill="#C084FC">
+<animate attributeName="cy" values="80;60;80" dur="6s" repeatCount="indefinite"/>
+</circle>
+
+<text x="800"
+y="110"
+text-anchor="middle"
+font-size="28"
+fill="#ffffff"
+font-family="Poppins">
+
+👋 Hey, I'm
+
+</text>
+
+<text
+x="800"
+y="190"
+text-anchor="middle"
+font-size="70"
+font-family="Poppins"
+font-weight="700"
+fill="#ffffff"
+filter="url(#glow)">
+
+NIRAJ JADHAV
+
+<animate attributeName="opacity"
+values="0.7;1;0.7"
+dur="3s"
+repeatCount="indefinite"/>
+
+</text>
+
+<text
+x="800"
+y="260"
+text-anchor="middle"
+font-size="28"
+fill="#67E8F9"
+font-family="JetBrains Mono">
+
+Software Engineer
+
+</text>
+
+<text
+x="800"
+y="300"
+text-anchor="middle"
+font-size="28"
+fill="#C084FC"
+font-family="JetBrains Mono">
+
+Full Stack Developer
+
+</text>
+
+<text
+x="800"
+y="340"
+text-anchor="middle"
+font-size="28"
+fill="#22D3EE"
+font-family="JetBrains Mono">
+
+MERN Stack Developer • AI Enthusiast • Problem Solver
+
+</text>
+
+</svg>

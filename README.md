@@ -1,12 +1,10 @@
 <div align="center">
 
-<p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Niraj Jadhav banner"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:06B6D4,50:2563EB,100:8E75B2&text=Niraj%20Jadhav&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder&descAlignY=55&descSize=18"/>
 
-<br><br>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+(MERN);Building+AI-Powered+Web+Applications;Passionate+about+DSA+%26+Problem+Solving;Currently+Exploring+AWS+%26+Machine+Learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+(MERN);Building+AI-Powered+Web+Applications;Passionate+about+DSA+%26+Problem+Solving;Currently+Exploring+AWS+%26+Machine+Learning;Turning+Ideas+Into+Scalable+Products+%F0%9F%9A%80"/>
 
 <br><br>
 
@@ -30,7 +28,11 @@
 
 </div>
 
----
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient"/>
+</div>
 
 # 👨‍💻 About Me
 
@@ -84,18 +86,17 @@ Beyond coding, I'm exploring **AWS**, **Docker**, and **Machine Learning** to bu
 <div align="center">
 
 <img src="https://img.shields.io/badge/Software%20Engineer-2563EB?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/MERN%20Developer-06B6D4?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/AI%20Builder-22C55E?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Open%20to%20Opportunities-16A34A?style=for-the-badge"/>
 
 </div>
 
 <br>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient"/>
+</div>
 
 # 🎓 Education
 
@@ -111,13 +112,20 @@ Beyond coding, I'm exploring **AWS**, **Docker**, and **Machine Learning** to bu
 
 <br>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient"/>
+</div>
 
 # 🛠️ Tech Stack
 
 <div align="center">
 
 ## Technologies I work with every day.
+
+<br>
+
+<!-- Animated scrolling tech marquee -->
+<img src="https://skillicons.dev/icons?i=cpp,js,java,html,css,react,nodejs,express,mongodb,mysql,aws,docker,git,github,vscode,postman&perline=8"/>
 
 </div>
 
@@ -207,7 +215,9 @@ Beyond coding, I'm exploring **AWS**, **Docker**, and **Machine Learning** to bu
 
 <br>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient"/>
+</div>
 
 # 🚀 Featured Projects
 
@@ -320,7 +330,9 @@ An AI-powered cold email generator built using the MERN stack and Google's **Gem
 
 <br>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient"/>
+</div>
 
 # 🌱 Currently Learning
 
@@ -331,18 +343,17 @@ An AI-powered cold email generator built using the MERN stack and Google's **Gem
 <br>
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/System_Design-4B5563?style=for-the-badge"/>
 
 </div>
 
 <br>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient"/>
+</div>
 
 # 🏆 Achievements & Certifications
 
@@ -371,11 +382,18 @@ An AI-powered cold email generator built using the MERN stack and Google's **Gem
 </tr>
 </table>
 
+<br>
+
+<!-- Animated GitHub Trophy showcase -->
+<img src="https://github-profile-trophy.vercel.app/?username=Nirajadhav007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
+
 </div>
 
 <br>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient"/>
+</div>
 
 # 💭 Developer Philosophy
 
@@ -391,7 +409,9 @@ An AI-powered cold email generator built using the MERN stack and Google's **Gem
 
 <br>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient"/>
+</div>
 
 # 📊 GitHub Statistics
 
@@ -439,6 +459,23 @@ An AI-powered cold email generator built using the MERN stack and Google's **Gem
 <br>
 
 ---
+### 🧊 3D Contribution Calendar
+
+<div align="center">
+
+<sub>Generated automatically via the <code>yoshi389111/github-profile-3d-contrib</code> GitHub Action — set up separately in a workflow, output committed to <code>profile-3d-contrib/profile-night-green.svg</code>.</sub>
+
+<br><br>
+
+<img width="95%" src="https://raw.githubusercontent.com/Nirajadhav007/Nirajadhav007/main/profile-3d-contrib/profile-night-green.svg"/>
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient"/>
+</div>
 
 # 🐍 Contribution Snake
 
@@ -466,7 +503,9 @@ The snake animation is generated automatically via a GitHub Actions workflow (se
 
 <br>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient"/>
+</div>
 
 # 📫 Let's Connect
 
@@ -492,7 +531,9 @@ The snake animation is generated automatically via a GitHub Actions workflow (se
 
 <br>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient"/>
+</div>
 
 # 💼 What You'll Find Here
 
@@ -512,18 +553,17 @@ The snake animation is generated automatically via a GitHub Actions workflow (se
 
 <br>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient"/>
+</div>
 
 # 📌 Current Focus
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Building-AI_Powered_Web_Apps-2563EB?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Learning-AWS_%26_ML-06B6D4?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Exploring-Docker-2496ED?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Practicing-DSA-22C55E?style=for-the-badge"/>
 
 </div>
@@ -550,6 +590,6 @@ Your support motivates me to build more amazing software.
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:06B6D4,100:2563EB"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:06B6D4,100:2563EB&animation=twinkling"/>
 
 </div>

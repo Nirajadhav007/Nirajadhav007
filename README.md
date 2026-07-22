@@ -15,7 +15,7 @@
 </td>
 <td width="30%" align="center" valign="middle">
 
-<img src="./assets/celebration-owl.svg" width="200" alt="Celebration owl launching confetti"/>
+<img src="./assets/celebration-owl.svg" width="200%" alt="Celebration owl launching confetti"/>
 
 </td>
 </tr>
